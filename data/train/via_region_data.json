@@ -1,0 +1,613 @@
+{
+  "_via_settings": {
+    "ui": {
+      "annotation_editor_height": 25,
+      "annotation_editor_fontsize": 0.8,
+      "leftsidebar_width": 18,
+      "image_grid": {
+        "img_height": 80,
+        "rshape_fill": "none",
+        "rshape_fill_opacity": 0.3,
+        "rshape_stroke": "yellow",
+        "rshape_stroke_width": 2,
+        "show_region_shape": true,
+        "show_image_policy": "all"
+      },
+      "image": {
+        "region_label": "__via_region_id__",
+        "region_color": "__via_default_region_color__",
+        "region_label_font": "10px Sans",
+        "on_image_annotation_editor_placement": "NEAR_REGION"
+      }
+    },
+    "core": {
+      "buffer_size": 18,
+      "filepath": {},
+      "default_filepath": ""
+    },
+    "project": {
+      "name": "train"
+    }
+  },
+  "_via_img_metadata": {
+    "countryinn_30878.png174054": {
+      "filename": "countryinn_30878.png",
+      "size": 174054,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 106,
+            "y": 285,
+            "width": 218,
+            "height": 54
+          },
+          "region_attributes": {
+            "name": "Name",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 92,
+            "y": 542,
+            "width": 304,
+            "height": 89
+          },
+          "region_attributes": {
+            "name": "Address",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 89,
+            "y": 656,
+            "width": 1545,
+            "height": 530
+          },
+          "region_attributes": {
+            "name": "Table",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 615,
+            "y": 261,
+            "width": 267,
+            "height": 22
+          },
+          "region_attributes": {
+            "name": "Email",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 932,
+            "y": 541,
+            "width": 186,
+            "height": 27
+          },
+          "region_attributes": {
+            "name": "Date",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 931,
+            "y": 568,
+            "width": 203,
+            "height": 27
+          },
+          "region_attributes": {
+            "name": "Date",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 93,
+            "y": 489,
+            "width": 356,
+            "height": 27
+          },
+          "region_attributes": {
+            "name": "Name",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1085,
+            "y": 257,
+            "width": 256,
+            "height": 22
+          },
+          "region_attributes": {
+            "name": "Website",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "hilton_3098434064.png1169145": {
+      "filename": "hilton_3098434064.png",
+      "size": 1169145,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 59,
+            "y": 269,
+            "width": 366,
+            "height": 86
+          },
+          "region_attributes": {
+            "name": "Address",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 43,
+            "y": 642,
+            "width": 1428,
+            "height": 564
+          },
+          "region_attributes": {
+            "name": "Table",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1051,
+            "y": 242,
+            "width": 103,
+            "height": 22
+          },
+          "region_attributes": {
+            "name": "Date",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1050,
+            "y": 268,
+            "width": 108,
+            "height": 23
+          },
+          "region_attributes": {
+            "name": "Date",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1051,
+            "y": 156,
+            "width": 246,
+            "height": 30
+          },
+          "region_attributes": {
+            "name": "Website",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1452,
+            "y": 390,
+            "width": 186,
+            "height": 58
+          },
+          "region_attributes": {
+            "name": "Name",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "Leonardo_362412213.png2860952": {
+      "filename": "Leonardo_362412213.png",
+      "size": 2860952,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 417,
+            "y": 340,
+            "width": 819,
+            "height": 80
+          },
+          "region_attributes": {
+            "name": "Address",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 153,
+            "y": 576,
+            "width": 290,
+            "height": 100
+          },
+          "region_attributes": {
+            "name": "Address",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 687,
+            "y": 238,
+            "width": 157,
+            "height": 42
+          },
+          "region_attributes": {
+            "name": "Name",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1252,
+            "y": 567,
+            "width": 121,
+            "height": 33
+          },
+          "region_attributes": {
+            "name": "Date",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1252,
+            "y": 615,
+            "width": 121,
+            "height": 32
+          },
+          "region_attributes": {
+            "name": "Date",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1252,
+            "y": 658,
+            "width": 120,
+            "height": 32
+          },
+          "region_attributes": {
+            "name": "Date",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 70,
+            "y": 1037,
+            "width": 1532,
+            "height": 447
+          },
+          "region_attributes": {
+            "name": "Table",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "venetian_434280912998.png203180": {
+      "filename": "venetian_434280912998.png",
+      "size": 203180,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 519,
+            "y": 89,
+            "width": 768,
+            "height": 86
+          },
+          "region_attributes": {
+            "name": "Name",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 758,
+            "y": 235,
+            "width": 301,
+            "height": 63
+          },
+          "region_attributes": {
+            "name": "Address",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 112,
+            "y": 287,
+            "width": 1520,
+            "height": 1332
+          },
+          "region_attributes": {
+            "name": "Table",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1421,
+            "y": 1816,
+            "width": 114,
+            "height": 25
+          },
+          "region_attributes": {
+            "name": "Date",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1421,
+            "y": 1852,
+            "width": 114,
+            "height": 28
+          },
+          "region_attributes": {
+            "name": "Date",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    }
+  },
+  "_via_attributes": {
+    "region": {
+      "name": {
+        "type": "text",
+        "description": "Name of the object",
+        "default_value": "not_defined"
+      },
+      "type": {
+        "type": "dropdown",
+        "description": "Category of object",
+        "options": {
+          "bird": "Bird",
+          "human": "Human",
+          "cup": "Cup (object)",
+          "unknown": "Unknown (object)"
+        },
+        "default_options": {
+          "unknown": true
+        }
+      },
+      "image_quality": {
+        "type": "checkbox",
+        "description": "Quality of image region",
+        "options": {
+          "blur": "Blurred region",
+          "good_illumination": "Good Illumination",
+          "frontal": "Object in Frontal View"
+        },
+        "default_options": {
+          "good": true,
+          "frontal": true,
+          "good_illumination": true
+        }
+      }
+    },
+    "file": {
+      "caption": {
+        "type": "text",
+        "description": "",
+        "default_value": ""
+      },
+      "public_domain": {
+        "type": "radio",
+        "description": "",
+        "options": {
+          "yes": "Yes",
+          "no": "No"
+        },
+        "default_options": {
+          "no": true
+        }
+      },
+      "image_url": {
+        "type": "text",
+        "description": "",
+        "default_value": ""
+      }
+    }
+  },
+  "_via_data_format_version": "2.0.10",
+  "_via_image_id_list": [
+    "countryinn_30878.png174054",
+    "hilton_3098434064.png1169145",
+    "Leonardo_362412213.png2860952",
+    "mystic-106247969.png1222168",
+    "venetian_434280912998.png203180"
+  ]
+}

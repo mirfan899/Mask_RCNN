@@ -1,0 +1,216 @@
+{
+  "_via_settings": {
+    "ui": {
+      "annotation_editor_height": 25,
+      "annotation_editor_fontsize": 0.8,
+      "leftsidebar_width": 18,
+      "image_grid": {
+        "img_height": 80,
+        "rshape_fill": "none",
+        "rshape_fill_opacity": 0.3,
+        "rshape_stroke": "yellow",
+        "rshape_stroke_width": 2,
+        "show_region_shape": true,
+        "show_image_policy": "all"
+      },
+      "image": {
+        "region_label": "__via_region_id__",
+        "region_color": "__via_default_region_color__",
+        "region_label_font": "10px Sans",
+        "on_image_annotation_editor_placement": "NEAR_REGION"
+      }
+    },
+    "core": {
+      "buffer_size": 18,
+      "filepath": {},
+      "default_filepath": ""
+    },
+    "project": {
+      "name": "val"
+    }
+  },
+  "_via_img_metadata": {
+    "mystic-106247969.png1222168": {
+      "filename": "mystic-106247969.png",
+      "size": 1222168,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 693,
+            "y": 199,
+            "width": 337,
+            "height": 74
+          },
+          "region_attributes": {
+            "name": "Name",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 690,
+            "y": 324,
+            "width": 345,
+            "height": 48
+          },
+          "region_attributes": {
+            "name": "Address",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1333,
+            "y": 454,
+            "width": 122,
+            "height": 35
+          },
+          "region_attributes": {
+            "name": "Date",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1334,
+            "y": 497,
+            "width": 130,
+            "height": 32
+          },
+          "region_attributes": {
+            "name": "Date",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 135,
+            "y": 714,
+            "width": 1471,
+            "height": 1344
+          },
+          "region_attributes": {
+            "name": "Table",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1025,
+            "y": 2079,
+            "width": 292,
+            "height": 40
+          },
+          "region_attributes": {
+            "name": "Website",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    }
+  },
+  "_via_attributes": {
+    "region": {
+      "name": {
+        "type": "text",
+        "description": "Name of the object",
+        "default_value": "not_defined"
+      },
+      "type": {
+        "type": "dropdown",
+        "description": "Category of object",
+        "options": {
+          "bird": "Bird",
+          "human": "Human",
+          "cup": "Cup (object)",
+          "unknown": "Unknown (object)"
+        },
+        "default_options": {
+          "unknown": true
+        }
+      },
+      "image_quality": {
+        "type": "checkbox",
+        "description": "Quality of image region",
+        "options": {
+          "blur": "Blurred region",
+          "good_illumination": "Good Illumination",
+          "frontal": "Object in Frontal View"
+        },
+        "default_options": {
+          "good": true,
+          "frontal": true,
+          "good_illumination": true
+        }
+      }
+    },
+    "file": {
+      "caption": {
+        "type": "text",
+        "description": "",
+        "default_value": ""
+      },
+      "public_domain": {
+        "type": "radio",
+        "description": "",
+        "options": {
+          "yes": "Yes",
+          "no": "No"
+        },
+        "default_options": {
+          "no": true
+        }
+      },
+      "image_url": {
+        "type": "text",
+        "description": "",
+        "default_value": ""
+      }
+    }
+  },
+  "_via_data_format_version": "2.0.10",
+  "_via_image_id_list": [
+    "mystic-106247969.png1222168"
+  ]
+}
